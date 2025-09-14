@@ -1,1 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
 
+header,main,footer{
+    background-color: #ff6347;
+    margin: 30px 20px;
+    padding: 30px 25px 30px 40px;
+    border-radius: 30px;
+
+}
+h1{
+   font-family: "Italianno", cursive;
+}
+
+img{
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+}
